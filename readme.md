@@ -26,7 +26,11 @@ O foco da solução foi criar um fluxo simples, confiável e fácil de entender.
 Requisitos:
 - PHP 7.4 ou superior
 
-Passos:
+```md
+Passos para execução:
+
+1. Abra um terminal na pasta raiz do projeto
+2. Execute o comando abaixo para iniciar o processamento:
 
 ```bash
 php main.php
